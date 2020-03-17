@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-
+// change made to code for lab 6
 
 public class ConnectFour {
     public static void printBoard(char[][] array) {
